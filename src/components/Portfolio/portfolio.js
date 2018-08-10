@@ -127,11 +127,11 @@ export default class Portfolio extends Component {
           {/* Modal Popup
 	      --------------------------------------------------------------- */}
           <div id="modal-01" className="popup-modal mfp-hide">
-            <img className="scale-with-grid" src="images/portfolio/modals/stockmarketpets.jpg" alt />
+            {/* <img className="scale-with-grid" src="images/portfolio/modals/stockmarketpets.jpg" alt /> */}
             <div className="description-box">
               <h4>Stock Market Pets</h4>
               <p>An online game designed to make learning the basic skills of the stock market not so intimidating.</p>
-              <span className="categories"><i className="fa fa-tag" />Full Stack Developer, Brand Manager, Feature Manager</span>
+              <span className="categories"><i className="fa fa-tag" />Full Stack Developer, Brand Manager, Feature Manager, MERN Stack</span>
             </div>
             <div className="link-box">
               <a href="http://www.stockmarketpets.com">Details</a>
@@ -139,7 +139,7 @@ export default class Portfolio extends Component {
             </div>
           </div>{/* modal-01 End */}
           <div id="modal-02" className="popup-modal mfp-hide">
-            <img className="scale-with-grid" src="images/portfolio/modals/localink.jpg" alt />
+            {/* <img className="scale-with-grid" src="images/portfolio/modals/localink.jpg" alt /> */}
             <div className="description-box">
               <h4>Local Ink</h4>
               <p>A site for clients to find the perfect artist for their next tattoo. Artists can register and create a profile. Clients can search the database of artists and easily compare their strengths and portfolio images.</p>
@@ -151,7 +151,7 @@ export default class Portfolio extends Component {
             </div>
           </div>{/* modal-02 End */}
           <div id="modal-03" className="popup-modal mfp-hide">
-            <img className="scale-with-grid" src="images/portfolio/modals/clickygame.jpg" alt />
+            {/* <img className="scale-with-grid" src="images/portfolio/modals/clickygame.jpg" alt /> */}
             <div className="description-box">
               <h4>Clicky Game</h4>
               <p>A game created using React.js that shows you 12 photos. The challenge is to click each photo once while they randomize with every click. A lot more challenging than it seems. Try it out!</p>
@@ -163,11 +163,11 @@ export default class Portfolio extends Component {
             </div>
           </div>{/* modal-03 End */}
           <div id="modal-04" className="popup-modal mfp-hide">
-            <img className="scale-with-grid" src="images/portfolio/modals/takeahike.jpg" alt />
+            {/* <img className="scale-with-grid" src="images/portfolio/modals/takeahike.jpg" alt /> */}
             <div className="description-box">
               <h4>Take-A-Hike</h4>
               <p>A site created to make it easy to find a local hike that includes weather details and location information, so no matter where you go, you can find an outdoor adventure.</p>
-              <span className="categories"><i className="fa fa-tag" />Photography</span>
+              <span className="categories"><i className="fa fa-tag" />HTML, CSS, APIs, JavaScript</span>
             </div>
             <div className="link-box">
               <a href="https://all-isa.github.io/WAAG/">Details</a>
@@ -175,7 +175,7 @@ export default class Portfolio extends Component {
             </div>
           </div>{/* modal-04 End */}
           <div id="modal-05" className="popup-modal mfp-hide">
-            <img className="scale-with-grid" src="images/portfolio/modals/usaquiz.jpg" alt />
+            {/* <img className="scale-with-grid" src="images/portfolio/modals/usaquiz.jpg" alt /> */}
             <div className="description-box">
               <h4>USA Geography Quiz</h4>
               <p>A timed trivia game created with Bootstrap and Javascript to challenge your knowledge of US geography.</p>
