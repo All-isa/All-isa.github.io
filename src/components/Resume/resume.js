@@ -34,10 +34,19 @@ export default class Resume extends Component {
             <h1><span>Work</span></h1>
           </div>
           <div className="nine columns main-col">
+          <div className="row item">
+              <div className="twelve columns">
+                <h3>Web Consultant</h3>
+                <p className="info">Web Developer<span>•</span> <em className="date">Jan 2018 - present</em></p>
+                <p>
+                Created mobile friendly websites/single-page applications. Designed, constructed, and implemented HTML and JavaScript web applications/websites using a variety of styles, templates, and custom CSS files. Customize and edited graphics within Adobe creative applications to meet project needs.
+                </p>
+              </div>
+            </div>
             <div className="row item">
               <div className="twelve columns">
                 <h3>Ironsmith Athletics</h3>
-                <p className="info">COO and Photographer<span>•</span> <em className="date">April 2015 - Dec 2017</em></p>
+                <p className="info">COO and Photographer<span>•</span> <em className="date">April 2015 - present</em></p>
                 <p>
                 Oversaw daily fulfillments, coordinated production, collaborated on brand development. Organized and created photography for productions and social media requirements.
                 </p>
