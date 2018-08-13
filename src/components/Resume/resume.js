@@ -68,7 +68,7 @@ export default class Resume extends Component {
             <h1><span>Technical Skills</span></h1>
           </div>
           <div className="nine columns main-col">
-            <p>Node.js, JavaScript, jQuery, GitHub, MySQL, Firebase, HTML, CSS, Bootstrap, APIs, JSON, AJAX, CLI, MongoDB, Express, React.js, PHP, Python, Agile Development, Adobe Creative Suite.
+            <p>HTML, CSS, Bootstrap, JavaScript, jQuery, Node.js, GitHub, MySQL, Firebase, APIs, JSON, AJAX, CLI, MongoDB, Express, React.js, PHP, Python, Agile Development, Adobe Creative Suite.
             </p>
           </div>
         </div>

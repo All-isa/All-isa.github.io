@@ -112,7 +112,7 @@
 	   width: 48px;
 		height: 48px;
 		text-align: left;
-		background-color: #CC5200;
+		background-color: rgb(42, 187, 180);
 		position: relative;
       border: none;
       float: right;
@@ -215,7 +215,7 @@
 
    /* About Section
    -------------------------------------------------------------------- */
-   #about .profile-pic { display: none; }
+   #about .profile-pic { display: inline; }
    #about .download .button {
       width: 100%;
       text-align: center;
