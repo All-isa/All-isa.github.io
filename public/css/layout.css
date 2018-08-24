@@ -32,7 +32,7 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
-   background: #161415 url(../images/header-background2.jpg) no-repeat top center;
+   background: #161415 url(../images/header-background4.jpg) no-repeat top center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -65,20 +65,20 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: rgb(60, 216, 221);
+   color: #fff;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: rgb(145, 205, 255);
 }
 header .banner-text hr {
    width: 60%;
    margin: 18px auto 24px auto;
    border-color: #2F2D2E;
-   border-color: rgba(150, 150, 150, .1);
+   border-color: rgba(185, 40, 40, 0.1);
 }
 
 /* header social links */
@@ -94,7 +94,7 @@ header .social li {
    padding: 0;
 }
 header .social li a { color: #fff; }
-header .social li a:hover { color: rgb(60, 216, 221); }
+header .social li a:hover { color:rgb(145, 205, 255); }
 
 /* scrolldown link */
 header .scrolldown a {
@@ -116,7 +116,7 @@ header .scrolldown a {
    -o-transition: all .3s ease-in-out;
    transition: all .3s ease-in-out;
 }
-header .scrolldown a:hover { color: rgb(60, 216, 221); }
+header .scrolldown a:hover { color:rgb(145, 205, 255); }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -178,7 +178,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: rgb(60, 216, 221); }
+ul#nav li.current a { color: rgb(145, 205, 255); }
 
 
 /* ------------------------------------------------------------------ */
@@ -193,7 +193,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: rgb(60, 216, 221); }
+#about a:hover, #about a:focus { color: rgb(145, 205, 255); }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -202,7 +202,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
 }
 #about p {
    line-height: 30px;
-   color: #7A7A7A;
+   color: rgb(145, 205, 255);;
 }
 #about .profile-pic {
    position: relative;
@@ -218,7 +218,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
 #about .main-col { padding-right: 5%; }
 #about .download .button {
    margin-top: 6px;
-   background: #444;
+   background: rgb(68, 68, 68);
 }
 #about .download .button:hover {
    background: #fff;
@@ -241,7 +241,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
    overflow: hidden;
 }
 
-#resume a, #resume a:visited  { color: #11ABB0; }
+#resume a, #resume a:visited  { color: rgb(145, 205, 255); }
 #resume a:hover, #resume a:focus { color: #313131; }
 
 #resume h1 {
@@ -250,7 +250,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
    letter-spacing: 1px;
 }
 #resume h1 span {
-   border-bottom: 3px solid #11ABB0;
+   border-bottom: 3px solid rgb(145, 205, 255);
    padding-bottom: 6px;
 }
 #resume h3 {
@@ -434,7 +434,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
    letter-spacing: 3px;
    cursor: pointer;
 }
-.popup-modal a:hover {	color: rgb(60, 216, 221); }
+.popup-modal a:hover {	color: rgb(145, 205, 255); }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
 
 
@@ -463,7 +463,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/header-background3.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -501,7 +501,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
    margin: 0 0px 30px 0px;
    padding-left: 0;
    position: relative;
-   text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
+   text-shadow: 0px 2px 3px rgba(0, 0, 0, 1);
 }
 #testimonials blockquote:before { content: none; }
 #testimonials blockquote p {
@@ -513,7 +513,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
 }
 #testimonials blockquote cite {
    display: block;
-   font-size: 12px;
+   font-size: 14px;
    font-style: normal;
    line-height: 18px;
    color: #fff;
@@ -619,7 +619,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: rgb(60, 216, 221); }
+#contact a, #contact a:visited  { color: rgb(145, 205, 255); }
 #contact a:hover, #contact a:focus { color: #fff; }
 
 #contact h1 {
@@ -680,7 +680,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
 #contact textarea:focus,
 #contact select:focus {
 	color: #fff;
-	background-color: rgb(60, 216, 221);
+	background-color: rgb(145, 205, 255);
 }
 #contact button.submit {
 	text-transform: uppercase;
@@ -699,7 +699,7 @@ ul#nav li.current a { color: rgb(60, 216, 221); }
 	background: #fff;
 }
 #contact span.required {
-	color: #11ABB0;
+	color: rgb(145, 205, 255);;
 	font-size: 13px;
 }
 #message-warning, #message-success {

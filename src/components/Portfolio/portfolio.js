@@ -134,7 +134,7 @@ export default class Portfolio extends Component {
               <span className="categories"><i className="fa fa-tag" />Full Stack Developer, Brand Manager, Feature Manager, MERN Stack</span>
             </div>
             <div className="link-box">
-              <a href="http://www.stockmarketpets.com">Details</a>
+              <a href="http://www.stockmarketpets.com" target="_blank">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-01 End */}
@@ -146,7 +146,7 @@ export default class Portfolio extends Component {
               <span className="categories"><i className="fa fa-tag" />Branding, Full Stack Web Development</span>
             </div>
             <div className="link-box">
-              <a href="https://pure-shelf-25877.herokuapp.com">Details</a>
+              <a href="https://pure-shelf-25877.herokuapp.com" target="_blank">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-02 End */}
@@ -158,7 +158,7 @@ export default class Portfolio extends Component {
               <span className="categories"><i className="fa fa-tag" />React</span>
             </div>
             <div className="link-box">
-              <a href="https://all-isa.github.io/clicky-game/">Details</a>
+              <a href="https://all-isa.github.io/clicky-game/" target="_blank">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-03 End */}
@@ -170,7 +170,7 @@ export default class Portfolio extends Component {
               <span className="categories"><i className="fa fa-tag" />HTML, CSS, APIs, JavaScript</span>
             </div>
             <div className="link-box">
-              <a href="https://all-isa.github.io/WAAG/">Details</a>
+              <a href="https://all-isa.github.io/WAAG/" target="_blank">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-04 End */}
@@ -182,7 +182,7 @@ export default class Portfolio extends Component {
               <span className="categories"><i className="fa fa-tag" />Javascript</span>
             </div>
             <div className="link-box">
-              <a href="https://all-isa.github.io/triviagame">Details</a>
+              <a href="https://all-isa.github.io/triviagame" target="_blank">Details</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-05 End */}
